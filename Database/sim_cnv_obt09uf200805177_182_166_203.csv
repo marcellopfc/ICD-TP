@@ -1,0 +1,23 @@
+
+Óbitos p/Residênc por Capítulo CID-9 e Ano do Óbito
+Período:1990-1995
+"Capítulo CID-9";"1990";"1991";"1992";"1993";"1994";"1995";"Total"
+"I.   Doenças infecciosas e parasitárias";41676;38165;39597;41766;42251;38664;242119
+"II.  Neoplasmas";83076;85923;90472;92871;96404;99058;547804
+"III. Doenças endóc nutric metab e transt imunitár";34354;35538;39505;43601;46502;49299;248799
+"IV.  Doenças do sangue e órgãos hematopoéticos";2746;2717;2878;3115;3210;3219;17885
+"V.   Transtornos mentais";3656;3927;4008;4368;4561;4801;25321
+"VI.  Doenças do sist nervoso e dos órg sentidos";9131;8782;9104;9626;9707;9813;56163
+"VII. Doenças do aparelho circulatório";229699;223750;231768;243607;244975;244602;1418401
+"VIII.Doenças do aparelho respiratório";70830;63998;69870;79342;81464;83297;448801
+"IX.  Doenças do aparelho digestivo";31662;32720;34148;36522;36969;37394;209415
+"X.   Doenças do aparelho geniturinário";11117;10604;11422;12072;12295;12544;70054
+"XI.  Complicações da gravidez parto e puerpério";1633;1521;1529;1641;1654;1635;9613
+"XII. Doenças da pele e tecido celular subcutâneo";810;849;865;980;1056;1069;5629
+"XIII.Doenças sist osteomuscular e tec conjuntivo";1371;1359;1451;1533;1518;1631;8863
+"XIV. Anomalias congênitas";8123;8440;8500;8689;8857;9115;51724
+"XV.  Algumas afecções origin no período perinatal";38269;37410;35926;36792;37656;38018;224071
+"XVI. Sintomas sinais e afecções mal definidas";148475;146110;147479;157830;151223;144830;895947
+"XVII.Causas externas";100656;102023;99130;103751;107292;114888;627740
+"Total";817284;803836;827652;878106;887594;893877;5108349
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
